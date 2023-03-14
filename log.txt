@@ -1,0 +1,563 @@
+Transporter 1got the write access at: 2022-05-09T18:34:44.406666600random num: 154 at: 2022-05-09T18:34:44.448555Miner 2 added DIAMOND at: 2022-05-09T18:34:45.360115100Miner 4 added NUGGET at: 2022-05-09T18:34:45.360115100Miner 4 added NUGGET at: 2022-05-09T18:34:45.362109800Miner 1 added DIAMOND at: 2022-05-09T18:34:45.365100400Miner 3 added DIAMOND at: 2022-05-09T18:34:45.365100400Miner 1 added DIAMOND at: 2022-05-09T18:34:46.372407900Miner 4 added DIAMOND at: 2022-05-09T18:34:46.372407900Miner 2 added NUGGET at: 2022-05-09T18:34:46.372407900Miner 4 added RUBY at: 2022-05-09T18:34:46.372407900Miner 3 added RUBY at: 2022-05-09T18:34:46.372407900Miner 4 added RUBY at: 2022-05-09T18:34:47.375409700Miner 1 added RUBY at: 2022-05-09T18:34:47.375409700Miner 3 added NUGGET at: 2022-05-09T18:34:47.380397Miner 2 added DIAMOND at: 2022-05-09T18:34:47.380397Miner 4 added RUBY at: 2022-05-09T18:34:47.380397Transporter 1got the write access
+random num: 139
+Miner 1 added null
+Miner 4 added null
+Miner 3 added null
+Miner 4 added null
+Miner 2 added null
+Miner 4 added null
+Transporter 1got the write access
+random num: 141
+Miner 3 added null
+Miner 1 added null
+Miner 4 added null
+Miner 2 added null
+Miner 4 added null
+Miner 1 added null
+Transporter 1got the write access
+random num: 195
+Miner 2 added null
+Miner 3 added null
+Miner 4 added null
+Miner 1 added null
+Miner 4 added null
+Miner 4 added null
+Transporter 1got the write access
+random num: 164
+Miner 4 added null
+Miner 3 added null
+Miner 2 added null
+Miner 1 added null
+Miner 4 added null
+Transporter 1got the write access
+random num: 119
+Miner 3 added null
+Miner 2 added null
+Miner 4 added null
+Miner 4 added null
+Miner 1 added null
+Miner 4 added null
+Transporter 1got the write access
+random num: 181
+Miner 1 added null
+Miner 3 added null
+Miner 4 added null
+Miner 4 added null
+Miner 2 added null
+Miner 2 added null
+Transporter 1got the write access
+random num: 143
+Miner 1 added DIAMOND
+Miner 4 added NUGGET
+Miner 2 added NUGGET
+Miner 4 added NUGGET
+Miner 3 added RUBY
+Miner 2 added DIAMOND
+Miner 4 added NUGGET
+Miner 4 added DIAMOND
+Miner 1 added RUBY
+Miner 3 added RUBY
+Miner 3 added RUBY
+Miner 4 added NUGGET
+Miner 1 added DIAMOND
+Miner 4 added RUBY
+Miner 2 added NUGGET
+Miner 3 added NUGGET
+Miner 4 added RUBY
+Miner 1 added NUGGET
+Miner 2 added NUGGET
+Miner 4 added RUBY
+Miner 3 added NUGGET
+Miner 4 added RUBY
+Miner 1 added NUGGET
+Miner 2 added RUBY
+Miner 4 added NUGGET
+Miner 3 added NUGGET
+Miner 4 added RUBY
+Miner 1 added DIAMOND
+Miner 2 added DIAMOND
+Miner 4 added RUBY
+Miner 3 added DIAMOND
+Transporter 1released write access
+Kinggot the write access
+king threw a party of size 100 coins remaining balance:52
+Kingreleased write access
+Transporter 2got the write access
+random num: 177
+Miner 4 added DIAMOND
+Miner 1 added NUGGET
+Miner 2 added DIAMOND
+Miner 4 added NUGGET
+Miner 4 added RUBY
+Miner 3 added NUGGET
+Miner 1 added NUGGET
+Miner 2 added RUBY
+Miner 4 added RUBY
+Miner 1 added DIAMOND
+Miner 4 added RUBY
+Miner 3 added DIAMOND
+Miner 2 added NUGGET
+Miner 4 added RUBY
+Transporter 1got the write access
+random num: 165
+Miner 1 added RUBY
+Miner 2 added DIAMOND
+Miner 4 added RUBY
+Miner 3 added DIAMOND
+Miner 4 added RUBY
+Miner 3 added NUGGET
+Miner 2 added RUBY
+Miner 4 added NUGGET
+Miner 1 added NUGGET
+Miner 4 added DIAMOND
+Miner 4 added RUBY
+Miner 1 added NUGGET
+Miner 2 added NUGGET
+Miner 3 added RUBY
+Miner 4 added RUBY
+Miner 4 added DIAMOND
+Miner 1 added NUGGET
+Miner 2 added NUGGET
+Miner 4 added NUGGET
+Miner 3 added NUGGET
+Miner 4 added RUBY
+Miner 2 added RUBY
+Miner 4 added NUGGET
+Miner 1 added DIAMOND
+Miner 3 added RUBY
+Miner 4 added RUBY
+Miner 2 added NUGGET
+Miner 1 added RUBY
+Miner 4 added NUGGET
+Miner 3 added NUGGET
+Miner 4 added DIAMOND
+Miner 2 added NUGGET
+Miner 1 added NUGGET
+Miner 4 added RUBY
+Miner 3 added NUGGET
+Miner 4 added DIAMOND
+Transporter 1released write access
+Kinggot the write access
+Miner 2 added NUGGET
+king threw a party of size 87 coins remaining balance:82
+Miner 4 added DIAMOND
+Transporter 2got the write access
+Kingreleased write access
+random num: 63
+Miner 1 added RUBY
+Miner 3 added RUBY
+Miner 4 added NUGGET
+Miner 2 added RUBY
+Miner 4 added RUBY
+Miner 1 added DIAMOND
+Miner 3 added NUGGET
+Miner 4 added DIAMOND
+Transporter 2released write access
+Transporter 1got the write access
+Miner 2 added DIAMOND
+random num: 84
+Miner 1 added DIAMOND
+Miner 4 added RUBY
+Miner 3 added DIAMOND
+Miner 4 added RUBY
+Miner 2 added NUGGET
+Miner 4 added DIAMOND
+Miner 1 added DIAMOND
+Miner 3 added RUBY
+Transporter 1got the write access
+random num: 166
+Miner 3 added RUBY
+Miner 4 added NUGGET
+Miner 4 added DIAMOND
+Miner 2 added DIAMOND
+Miner 1 added NUGGET
+Miner 4 added DIAMOND
+Miner 3 added DIAMOND
+Miner 1 added DIAMOND
+Miner 4 added DIAMOND
+Miner 2 added DIAMOND
+Miner 1 added NUGGET
+Miner 3 added DIAMOND
+Miner 4 added NUGGET
+Miner 4 added DIAMOND
+Miner 2 added DIAMOND
+Transporter 1got the write access
+random num: 170
+Miner 2 added RUBY
+Miner 4 added RUBY
+Miner 3 added RUBY
+Miner 1 added DIAMOND
+Miner 4 added RUBY
+Miner 1 added NUGGET
+Miner 4 added DIAMOND
+Miner 2 added NUGGET
+Miner 4 added DIAMOND
+Miner 3 added RUBY
+Miner 4 added RUBY
+Miner 3 added DIAMOND
+Miner 2 added RUBY
+Miner 4 added DIAMOND
+Miner 1 added RUBY
+Miner 1 added DIAMOND
+Miner 4 added RUBY
+Miner 2 added DIAMOND
+Miner 3 added RUBY
+Miner 4 added RUBY
+Miner 3 added NUGGET
+Miner 2 added NUGGET
+Miner 4 added RUBY
+Miner 4 added NUGGET
+Miner 1 added RUBY
+Miner 1 added RUBY
+Miner 3 added DIAMOND
+Miner 2 added NUGGET
+Miner 4 added DIAMOND
+Miner 4 added NUGGET
+Transporter 1released write access
+Kinggot the write access
+king threw a party of size 69 coins remaining balance:106
+Transporter 2got the write access
+Kingreleased write access
+random num: 144
+Miner 2 added NUGGET
+Miner 4 added NUGGET
+Miner 4 added NUGGET
+Miner 3 added RUBY
+Miner 1 added NUGGET
+Transporter 1got the write access
+random num: 107
+Miner 3 added NUGGET
+Miner 2 added NUGGET
+Miner 4 added NUGGET
+Miner 1 added DIAMOND
+Miner 4 added DIAMOND
+Miner 4 added RUBY
+Miner 1 added NUGGET
+Miner 3 added DIAMOND
+Miner 2 added RUBY
+Miner 4 added NUGGET
+Miner 2 added DIAMOND
+Miner 4 added DIAMOND
+Miner 3 added RUBY
+Miner 1 added RUBY
+Miner 4 added NUGGET
+Miner 1 added NUGGET
+Miner 2 added DIAMOND
+Miner 4 added DIAMOND
+Miner 4 added RUBY
+Miner 3 added DIAMOND
+Transporter 1released write access
+Kinggot the write access
+Kingreleased write access
+Transporter 2got the write access
+random num: 125
+Miner 3 added NUGGET
+Miner 4 added DIAMOND
+Miner 1 added DIAMOND
+Miner 2 added DIAMOND
+Miner 4 added DIAMOND
+Miner 1 added NUGGET
+Miner 4 added NUGGET
+Miner 3 added RUBY
+Miner 4 added RUBY
+Miner 2 added RUBY
+Miner 2 added RUBY
+Miner 4 added NUGGET
+Miner 1 added DIAMOND
+Miner 3 added RUBY
+Miner 4 added RUBY
+Miner 1 added RUBY
+Miner 4 added NUGGET
+Miner 4 added RUBY
+Miner 2 added NUGGET
+Miner 3 added DIAMOND
+Miner 1 added NUGGET
+Miner 4 added DIAMOND
+Miner 3 added DIAMOND
+Transporter 2released write access
+Miner 4 added DIAMOND
+Miner 2 added DIAMOND
+Transporter 1got the write access
+random num: 172
+Transporter 1got the write access
+random num: 95
+Miner 1 added NUGGET
+Miner 2 added RUBY
+Miner 4 added NUGGET
+Miner 3 added NUGGET
+Miner 4 added NUGGET
+Miner 4 added NUGGET
+Miner 2 added DIAMOND
+Miner 1 added DIAMOND
+Miner 3 added RUBY
+Miner 4 added RUBY
+Miner 1 added NUGGET
+Miner 3 added DIAMOND
+Miner 4 added NUGGET
+Miner 4 added RUBY
+Miner 2 added DIAMOND
+Miner 2 added RUBY
+Miner 4 added DIAMOND
+Miner 3 added DIAMOND
+Miner 4 added NUGGET
+Miner 1 added NUGGET
+Transporter 1released write access
+Kinggot the write access
+Kingreleased write access
+Transporter 2got the write access
+random num: 119
+Miner 4 added RUBY
+Miner 2 added NUGGET
+Miner 4 added RUBY
+Miner 3 added NUGGET
+Miner 1 added RUBY
+Miner 3 added RUBY
+Miner 4 added NUGGET
+Miner 4 added DIAMOND
+Miner 1 added NUGGET
+Miner 2 added DIAMOND
+Transporter 1got the write access
+random num: 120
+Miner 4 added DIAMOND
+Miner 3 added NUGGET
+Miner 4 added RUBY
+Miner 2 added RUBY
+Miner 1 added DIAMOND
+Miner 1 added RUBY
+Miner 4 added NUGGET
+Miner 3 added RUBY
+Miner 2 added NUGGET
+Miner 4 added DIAMOND
+Miner 1 added NUGGET
+Miner 4 added DIAMOND
+Miner 2 added NUGGET
+Miner 4 added RUBY
+Miner 3 added NUGGET
+Miner 1 added NUGGET
+Miner 4 added DIAMOND
+Miner 2 added NUGGET
+Miner 3 added RUBY
+Miner 4 added NUGGET
+Miner 4 added DIAMOND
+Miner 3 added NUGGET
+Miner 2 added NUGGET
+Miner 1 added NUGGET
+Miner 4 added DIAMOND
+Transporter 1released write access
+Kinggot the write access
+Transporter 2got the write access
+Kingreleased write access
+random num: 97
+Miner 3 added DIAMOND
+Miner 4 added NUGGET
+Miner 4 added DIAMOND
+Miner 2 added DIAMOND
+Miner 1 added DIAMOND
+Transporter 1got the write access
+random num: 195
+Miner 2 added NUGGET
+Miner 4 added NUGGET
+Miner 4 added RUBY
+Miner 3 added RUBY
+Miner 1 added NUGGET
+Miner 2 added RUBY
+Miner 1 added DIAMOND
+Miner 4 added NUGGET
+Miner 3 added RUBY
+Miner 4 added RUBY
+Miner 1 added NUGGET
+Miner 3 added NUGGET
+Miner 4 added RUBY
+Miner 4 added DIAMOND
+Miner 2 added NUGGET
+Transporter 2got the write access
+random num: 51
+Miner 4 added RUBY
+Miner 4 added DIAMOND
+Miner 3 added DIAMOND
+Miner 2 added RUBY
+Miner 1 added DIAMOND
+Miner 4 added NUGGET
+Transporter 2released write access
+Miner 3 added DIAMOND
+Miner 1 added NUGGET
+Miner 2 added RUBY
+Miner 4 added NUGGET
+Transporter 1got the write access
+random num: 171
+Miner 4 added NUGGET
+Miner 1 added DIAMOND
+Miner 2 added RUBY
+Miner 3 added RUBY
+Miner 4 added RUBY
+Transporter 1got the write access
+random num: 123
+Miner 4 added NUGGET
+Miner 2 added RUBY
+Miner 1 added RUBY
+Miner 3 added NUGGET
+Miner 4 added RUBY
+Miner 3 added RUBY
+Miner 4 added NUGGET
+Miner 2 added NUGGET
+Miner 1 added DIAMOND
+Miner 4 added NUGGET
+Miner 2 added RUBY
+Miner 4 added NUGGET
+Miner 1 added NUGGET
+Miner 3 added NUGGET
+Miner 4 added DIAMOND
+Miner 1 added NUGGET
+Miner 3 added DIAMOND
+Miner 2 added NUGGET
+Miner 4 added DIAMOND
+Miner 4 added NUGGET
+Miner 2 added NUGGET
+Miner 1 added NUGGET
+Miner 4 added NUGGET
+Miner 3 added NUGGET
+Miner 4 added NUGGET
+Miner 3 added RUBY
+Miner 1 added NUGGET
+Miner 2 added RUBY
+Miner 4 added DIAMOND
+Miner 4 added NUGGET
+Miner 4 added RUBY
+Miner 3 added NUGGET
+Miner 2 added RUBY
+Miner 1 added RUBY
+Transporter 2got the write access
+Transporter 1released write access
+random num: 169
+Miner 4 added NUGGET
+Miner 3 added RUBY
+Miner 4 added RUBY
+Miner 1 added RUBY
+Miner 2 added NUGGET
+Miner 4 added NUGGET
+Miner 1 added DIAMOND
+Miner 4 added NUGGET
+Miner 2 added RUBY
+Miner 3 added RUBY
+Miner 4 added NUGGET
+Miner 3 added DIAMOND
+Miner 1 added RUBY
+Miner 4 added RUBY
+Miner 2 added DIAMOND
+Miner 4 added NUGGET
+Miner 2 added DIAMOND
+Miner 3 added RUBY
+Miner 1 added NUGGET
+Miner 4 added DIAMOND
+Miner 4 added RUBY
+Miner 3 added RUBY
+Miner 1 added RUBY
+Miner 4 added RUBY
+Miner 2 added RUBY
+Miner 4 added DIAMOND
+Miner 1 added NUGGET
+Miner 3 added RUBY
+Miner 4 added DIAMOND
+Miner 2 added DIAMOND
+Transporter 2released write access
+Kinggot the write access
+king threw a party of size 145 coins remaining balance:164
+Transporter 1got the write access
+Kingreleased write access
+random num: 139
+Miner 4 added RUBY
+Miner 4 added NUGGET
+Miner 1 added NUGGET
+Miner 3 added NUGGET
+Miner 2 added NUGGET
+Miner 4 added DIAMOND
+Miner 1 added DIAMOND
+Miner 4 added DIAMOND
+Miner 3 added RUBY
+Miner 2 added NUGGET
+Miner 4 added NUGGET
+Miner 4 added NUGGET
+Miner 1 added NUGGET
+Miner 3 added DIAMOND
+Miner 2 added DIAMOND
+Miner 4 added RUBY
+Transporter 1got the write access
+random num: 154
+Miner 3 added NUGGET
+Miner 2 added DIAMOND
+Miner 4 added NUGGET
+Miner 4 added NUGGET
+Miner 1 added DIAMOND
+Miner 3 added DIAMOND
+Miner 4 added RUBY
+Miner 2 added NUGGET
+Miner 4 added DIAMOND
+Miner 1 added DIAMOND
+Miner 1 added DIAMOND
+Miner 4 added NUGGET
+Miner 2 added NUGGET
+Miner 4 added RUBY
+Miner 3 added DIAMOND
+Miner 4 added RUBY
+Miner 2 added NUGGET
+Miner 4 added NUGGET
+Miner 1 added RUBY
+Miner 3 added RUBY
+Miner 4 added NUGGET
+Miner 2 added RUBY
+Miner 4 added RUBY
+Miner 1 added NUGGET
+Miner 3 added RUBY
+Miner 2 added DIAMOND
+Miner 4 added DIAMOND
+Miner 4 added RUBY
+Transporter 1released write access
+Miner 1 added RUBY
+Kinggot the write access
+king threw a party of size 94 coins remaining balance:63
+Kingreleased write access
+Transporter 2got the write access
+random num: 182
+Miner 3 added DIAMOND
+Miner 4 added RUBY
+Miner 1 added NUGGET
+Miner 4 added DIAMOND
+Miner 2 added NUGGET
+Miner 3 added NUGGET
+Transporter 1got the write access
+random num: 101
+Miner 2 added NUGGET
+Miner 1 added RUBY
+Miner 3 added NUGGET
+Miner 4 added NUGGET
+Miner 4 added NUGGET
+Miner 4 added RUBY
+Miner 2 added NUGGET
+Miner 3 added DIAMOND
+Miner 4 added RUBY
+Miner 1 added DIAMOND
+Miner 1 added RUBY
+Miner 4 added NUGGET
+Miner 4 added DIAMOND
+Miner 3 added DIAMOND
+Miner 2 added NUGGET
+Miner 4 added DIAMOND
+Miner 1 added RUBY
+Miner 3 added DIAMOND
+Transporter 1released write access
+Miner 4 added DIAMOND
+Miner 2 added RUBY
+Kinggot the write access
+Kingreleased write access
+Transporter 2got the write access
+random num: 63
+Miner 1 added DIAMOND
+Miner 2 added NUGGET
+Miner 4 added NUGGET
+Miner 4 added NUGGET
+Miner 3 added RUBY
+Miner 3 added NUGGET
+Miner 4 added DIAMOND
+Miner 2 added RUBY
+Miner 4 added RUBY
+Miner 1 added NUGGET
